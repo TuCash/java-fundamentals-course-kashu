@@ -69,6 +69,16 @@ java-fundamentals-course/
 
 ## 🚀 Cómo Empezar
 
+Puedes elegir entre dos opciones para comenzar a programar:
+
+### Opción 1: Usar OnlineGDB (Recomendado para principiantes)
+
+1. Visita [OnlineGDB](https://www.onlinegdb.com/)
+1. Selecciona "Java" en el menú desplegable de lenguajes
+1. ¡Comienza a escribir tu código directamente en el navegador!
+
+### Opción 2: Configuración Local
+
 1. Clona este repositorio:
 
 ```bash
@@ -100,6 +110,9 @@ java Main
 - Java JDK 8 o superior
 - Un editor de texto o IDE (recomendamos VS Code o IntelliJ IDEA)
 - Conocimientos básicos de uso de terminal/consola
+
+> 💡 **¡Alternativa Online!** 
+> Puedes seguir el curso directamente en tu navegador usando [OnlineGDB](https://www.onlinegdb.com/), un IDE en línea que no requiere instalación. ¡Perfecto para empezar a programar inmediatamente!
 
 ## 🎓 Metodología de Aprendizaje
 
