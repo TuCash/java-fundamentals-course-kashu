@@ -1,45 +1,113 @@
-/**
- * Lesson 5 - OOP basics (classes, fields, constructors)
- * File: starter-files/lesson5-oop-basics/Main.java
- *
- * Demonstrates creating a simple object and calling its methods.
+/*
+ * Lección 5: Fundamentos de POO - Herencia y Polimorfismo
+ * 
+ * Este ejemplo muestra:
+ * 1. Herencia de clases
+ * 2. Sobrescritura de métodos
+ * 3. Polimorfismo
+ * 4. Clases abstractas e interfaces
  */
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Lesson 5 — OOP basics: create and interact with objects\n");
+        System.out.println("=== Fundamentos de POO ===\n");
 
-        Person p = new Person("Ana", 30);
-        System.out.println(p);
-        p.birthday();
-        System.out.println("After birthday: " + p);
+        // Crear instancias de diferentes animales
+        Animal perro = new Perro("Rex");
+        Animal gato = new Gato("Whiskers");
+        Ave pajaro = new Ave("Tweety");
+
+        // Demostración de polimorfismo
+        System.out.println("=== Sonidos de Animales ===");
+        perro.hacerSonido();
+        gato.hacerSonido();
+        pajaro.hacerSonido();
+
+        // Uso de métodos específicos de cada clase
+        System.out.println("\n=== Comportamientos Específicos ===");
+        ((Perro)perro).jugar();
+        ((Gato)gato).arañar();
+        pajaro.volar();
+
+        // Uso de interfaces
+        Mascota mascotaPerro = (Mascota)perro;
+        System.out.println("\n=== Interacción con Mascotas ===");
+        mascotaPerro.alimentar();
+        mascotaPerro.acariciar();
     }
 }
 
-/**
- * Simple Person class used for demonstration.
- */
-class Person {
-    private String name;
-    private int age;
+// Clase abstracta base
+abstract class Animal {
+    protected String nombre;
 
-    /**
-     * Construct a person with name and age.
-     */
-    public Person(String name, int age) {
-        this.name = name;
-        this.age = age;
+    public Animal(String nombre) {
+        this.nombre = nombre;
     }
 
-    /**
-     * Simulate a birthday by incrementing age.
-     */
-    public void birthday() {
-        this.age += 1;
+    abstract void hacerSonido();
+}
+
+// Interface para mascotas
+interface Mascota {
+    void alimentar();
+    void acariciar();
+}
+
+// Clase Perro que hereda de Animal e implementa Mascota
+class Perro extends Animal implements Mascota {
+    public Perro(String nombre) {
+        super(nombre);
     }
 
     @Override
-    public String toString() {
-        return String.format("Person{name='%s', age=%d}", name, age);
+    void hacerSonido() {
+        System.out.println(nombre + " dice: ¡Guau guau!");
+    }
+
+    @Override
+    public void alimentar() {
+        System.out.println(nombre + " come su comida para perros");
+    }
+
+    @Override
+    public void acariciar() {
+        System.out.println(nombre + " mueve la cola felizmente");
+    }
+
+    public void jugar() {
+        System.out.println(nombre + " juega con la pelota");
+    }
+}
+
+// Clase Gato que hereda de Animal
+class Gato extends Animal {
+    public Gato(String nombre) {
+        super(nombre);
+    }
+
+    @Override
+    void hacerSonido() {
+        System.out.println(nombre + " dice: ¡Miau!");
+    }
+
+    public void arañar() {
+        System.out.println(nombre + " araña el sofá");
+    }
+}
+
+// Clase Ave que hereda de Animal
+class Ave extends Animal {
+    public Ave(String nombre) {
+        super(nombre);
+    }
+
+    @Override
+    void hacerSonido() {
+        System.out.println(nombre + " dice: ¡Pío pío!");
+    }
+
+    public void volar() {
+        System.out.println(nombre + " vuela por el cielo");
     }
 }
