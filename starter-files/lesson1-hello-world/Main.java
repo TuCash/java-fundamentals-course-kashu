@@ -8,24 +8,15 @@
  */
 
 public class Main {
-    // Método principal - punto de entrada del programa
     public static void main(String[] args) {
-        // Comentario de una línea
-        System.out.println("¡Hola Mundo!"); // Imprime un mensaje
+        // Imprimir en consola
+        System.out.println("¡Hola, Mundo!");
 
         /*
-         * Este es un comentario
-         * de múltiples líneas
+         * Este es un comentario de bloque.
+         * Puedes usarlo para explicar secciones de código más largas.
          */
-        System.out.println("Bienvenidos al curso de Java");
 
-        // Ejemplos de println vs print
-        System.out.print("Esto se imprime ");
-        System.out.print("en la misma línea");
-        System.out.println(); // Nueva línea
-        
-        // Usando caracteres especiales
-        System.out.println("Una línea\nOtra línea"); // \n crea nueva línea
-        System.out.println("Texto con\ttabulación"); // \t añade tabulación
+        // Comentario de línea: Este es un comentario simple.
     }
 }
