@@ -13,7 +13,7 @@
 #  FUNDAMENTOS DE JAVA PARA PRINCIPIANTES
 
 **Startup:** KASHU  
-**Repositorio:** [https://github.com/Kashu-Team/java-fundamentals-course-kashu](https://github.com/Kashu-Team/java-fundamentals-course-kashu)
+**Repositorio:** [https://github.com/TuCash/java-fundamentals-course-kashu.git](https://github.com/TuCash/java-fundamentals-course-kashu.git)
 
 ---
 
@@ -74,7 +74,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Estructura básica de un programa Java  
 - Uso de `System.out.println()`  
 - Comentarios en Java  
-- [🎥 Ver la lección en YouTube](https://youtu.be/tMXubNz1VsU)
+- [🎥 Ver la lección en YouTube](https://youtu.be/wDRoMQEmJkc)
 
 ---
 
@@ -83,7 +83,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Operadores aritméticos y lógicos  
 - Cadenas de texto (`String`)  
 - Conversión de tipos  
-- [🎥 Ver la lección en YouTube](https://youtu.be/2CFP012cvK8)
+- [🎥 Ver la lección en YouTube](https://www.youtube.com/watch?v=n_oFI97LFqw)
 
 ---
 
