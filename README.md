@@ -43,7 +43,7 @@ El curso tiene una duración total aproximada de **1 hora**, dividido en **8 lec
 
 ---
 
-## 💻 HERRAMIENTAS Y PLATAFORMAS
+##  HERRAMIENTAS Y PLATAFORMAS
 
 | Propósito | Herramienta / Plataforma |
 |------------|--------------------------|
@@ -74,7 +74,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Estructura básica de un programa Java  
 - Uso de `System.out.println()`  
 - Comentarios en Java  
-- [🎥 Ver la lección en YouTube](https://youtu.be/wDRoMQEmJkc)
+- [ Ver la lección en YouTube](https://youtu.be/wDRoMQEmJkc)
 
 ---
 
@@ -83,7 +83,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Operadores aritméticos y lógicos  
 - Cadenas de texto (`String`)  
 - Conversión de tipos  
-- [🎥 Ver la lección en YouTube](https://www.youtube.com/watch?v=n_oFI97LFqw)
+- [ Ver la lección en YouTube](https://www.youtube.com/watch?v=n_oFI97LFqw)
 
 ---
 
@@ -92,7 +92,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Sentencias `switch-case`  
 - Bucles `for` y `while`  
 - Control de flujo con `break` y `continue`  
-- [🎥 Fundamentos de Java #3 – Estructuras de Control](https://youtube.com/playlist?your_playlist_id_3)
+- [ Fundamentos de Java #3 – Estructuras de Control](https://youtube.com/playlist?your_playlist_id_3)
 
 ---
 
@@ -101,7 +101,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Parámetros y valores de retorno  
 - Entrada de usuario con `Scanner`  
 - Sobrecarga de métodos (`overloading`)  
-- [🎥 Fundamentos de Java #4 – Métodos y Entrada de Usuario](https://youtube.com/playlist?your_playlist_id_4)
+- [ Fundamentos de Java #4 – Métodos y Entrada de Usuario](https://youtube.com/playlist?your_playlist_id_4)
 
 ---
 
@@ -110,16 +110,16 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Atributos y métodos  
 - Encapsulamiento  
 - Herencia y polimorfismo  
-- [🎥 Fundamentos de Java #5 – Programación Orientada a Objetos](https://youtube.com/playlist?your_playlist_id_5)
+- [ Fundamentos de Java #5 – Programación Orientada a Objetos](https://youtube.com/playlist?your_playlist_id_5)
 
 ---
 
-### 6️ Arreglos y Bucles Anidados 🧮
+### 6️ Arreglos y Bucles Anidados 
 - Declaración e inicialización de arreglos  
 - Recorridos con bucles anidados  
 - Arreglos multidimensionales  
 - Ejercicios prácticos con matrices  
-- [🎥 Fundamentos de Java #6 – Arreglos y Bucles Anidados](https://youtube.com/playlist?your_playlist_id_6)
+- [ Fundamentos de Java #6 – Arreglos y Bucles Anidados](https://youtube.com/playlist?your_playlist_id_6)
 
 ---
 
@@ -128,16 +128,16 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Creación de clases base y subclases  
 - Aplicación de principios POO  
 - Manejo de entrada del usuario  
-- [🎥 Fundamentos de Java #7 – Mini Proyecto Final (Parte 1)](https://youtube.com/playlist?your_playlist_id_7)
+- [ Fundamentos de Java #7 – Mini Proyecto Final (Parte 1)](https://youtube.com/playlist?your_playlist_id_7)
 
 ---
 
-### 8️ Mini Proyecto Final – Parte 2: Mejoras y Presentación 🚀
+### 8️ Mini Proyecto Final – Parte 2: Mejoras y Presentación 
 - Refactorización del código  
 - Manejo de excepciones  
 - Documentación y comentarios  
 - Presentación final del proyecto  
-- [🎥 Fundamentos de Java #8 – Mini Proyecto Final (Parte 2)](https://youtube.com/playlist?your_playlist_id_8)
+- [ Fundamentos de Java #8 – Mini Proyecto Final (Parte 2)](https://youtube.com/playlist?your_playlist_id_8)
 
 ---
 
@@ -158,6 +158,5 @@ java-fundamentals-course-kashu/
 │   ├── lesson6/            # Arreglos y Bucles Anidados
 │   ├── lesson7/            # Mini Proyecto Parte 1
 │   └── lesson8/            # Mini Proyecto Parte 2
-├── completed-examples/     # Soluciones completas
 ├── assets/                 # Recursos adicionales (imágenes, documentos)
 └── scripts/                # Scripts o herramientas de apoyo
