@@ -70,7 +70,7 @@ Desarrollado por el equipo **Kashu** como parte del curso **Desarrollo de Aplica
 
 El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ejercicios y videos explicativos.
 
-### 1️ Introducción a Java
+### 1️. Introducción a Java
 - Estructura básica de un programa Java  
 - Uso de `System.out.println()`  
 - Comentarios en Java  
@@ -78,7 +78,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 
 ---
 
-### 2️ Variables y Tipos de Datos
+### 2️. Variables y Tipos de Datos
 - Variables y tipos de datos primitivos  
 - Operadores aritméticos y lógicos  
 - Cadenas de texto (`String`)  
@@ -87,25 +87,25 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 
 ---
 
-### 3️ Estructuras de Control
+### 3️. Estructuras de Control
 - Condicionales `if-else`  
 - Sentencias `switch-case`  
 - Bucles `for` y `while`  
 - Control de flujo con `break` y `continue`  
-- [ Fundamentos de Java #3 – Estructuras de Control](https://youtube.com/playlist?your_playlist_id_3)
+- [ Fundamentos de Java #3 – Estructuras de Control](https://youtu.be/Or8rIrHKmAY)
 
 ---
 
-### 4️ Métodos y Entrada de Usuario
+### 4️. Métodos y Entrada de Usuario
 - Creación y uso de métodos  
 - Parámetros y valores de retorno  
 - Entrada de usuario con `Scanner`  
 - Sobrecarga de métodos (`overloading`)  
-- [ Fundamentos de Java #4 – Métodos y Entrada de Usuario](https://youtube.com/playlist?your_playlist_id_4)
+- [ Fundamentos de Java #4 – Métodos y Entrada de Usuario](https://youtu.be/zdOd86EgwTM)
 
 ---
 
-### 5️ Programación Orientada a Objetos (POO)
+### 5️. Programación Orientada a Objetos (POO)
 - Clases y objetos  
 - Atributos y métodos  
 - Encapsulamiento  
@@ -114,7 +114,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 
 ---
 
-### 6️ Arreglos y Bucles Anidados 
+### 6️. Arreglos y Bucles Anidados 
 - Declaración e inicialización de arreglos  
 - Recorridos con bucles anidados  
 - Arreglos multidimensionales  
@@ -123,7 +123,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 
 ---
 
-### 7 Mini Proyecto Final – Parte 1: Desarrollo
+### 7. Mini Proyecto Final – Parte 1: Desarrollo
 - Diseño del proyecto “Juego de Cartas”  
 - Creación de clases base y subclases  
 - Aplicación de principios POO  
@@ -132,7 +132,7 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 
 ---
 
-### 8️ Mini Proyecto Final – Parte 2: Mejoras y Presentación 
+### 8️. Mini Proyecto Final – Parte 2: Mejoras y Presentación 
 - Refactorización del código  
 - Manejo de excepciones  
 - Documentación y comentarios  
@@ -142,21 +142,5 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 ---
 
 
- El código final se encuentra en `/completed-examples/project-final`.
 
----
 
-##  Estructura del Repositorio
-
-java-fundamentals-course-kashu/
-├── starter-files/          # Archivos base para ejercicios
-│   ├── lesson1/            # Introducción a Java
-│   ├── lesson2/            # Variables y Tipos de Datos
-│   ├── lesson3/            # Estructuras de Control
-│   ├── lesson4/            # Métodos y Entrada de Usuario
-│   ├── lesson5/            # Programación Orientada a Objetos
-│   ├── lesson6/            # Arreglos y Bucles Anidados
-│   ├── lesson7/            # Mini Proyecto Parte 1
-│   └── lesson8/            # Mini Proyecto Parte 2
-├── assets/                 # Recursos adicionales (imágenes, documentos)
-└── scripts/                # Scripts o herramientas de apoyo
