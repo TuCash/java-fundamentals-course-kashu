@@ -110,16 +110,97 @@ El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ej
 - Atributos y métodos  
 - Encapsulamiento  
 - Herencia y polimorfismo  
-- [ Fundamentos de Java #5 – Programación Orientada a Objetos](https://youtube.com/playlist?your_playlist_id_5)
+
+#### 📚 Videos de POO:
+- [POO - Conceptos Básicos](https://youtu.be/XjaSQu1Lmgc)
+- [POO - Clases y Objetos](https://youtu.be/zU-ufayiI9k)
+- [POO - Constructores y Métodos](https://youtu.be/esVVNXbklgk)
+- [POO - Encapsulación](https://youtu.be/NV5JP8tnPso)
+- [POO - Herencia y Polimorfismo](https://youtu.be/POPDjMBjLmg)
+
+#### 💻 Ejemplo de Código:
+```java
+public class Main {
+    public static void main(String[] args) {
+        Estudiante e1 = new Estudiante("Ana", 17, 18.5);
+        Estudiante e2 = new Estudiante("Luis", 19, 15.8);
+        
+        e1.mostrarInfo();
+        e2.mostrarInfo();
+    }
+}
+
+class Estudiante {
+    String nombre;
+    int edad;
+    double nota;
+    
+    Estudiante(String n, int e, double no) {
+        nombre = n;
+        edad = e;
+        nota = no;
+    }
+    
+    void mostrarInfo() {
+        System.out.println("Nombre: " + nombre + " | Edad: " + edad + " | Nota: " + nota);
+        if (nota >= 11) {
+            System.out.println("Estado: Aprobado ✅");
+        } else {
+            System.out.println("Estado: Desaprobado ❌");
+        }
+    }
+}
+```
 
 ---
 
-### 6️. Arreglos y Bucles Anidados 
+### 6️. Arreglos y Bucles Anidados
 - Declaración e inicialización de arreglos  
 - Recorridos con bucles anidados  
 - Arreglos multidimensionales  
 - Ejercicios prácticos con matrices  
-- [ Fundamentos de Java #6 – Arreglos y Bucles Anidados](https://youtube.com/playlist?your_playlist_id_6)
+
+#### 📚 Videos de Arrays y Bucles:
+- [Arrays - Introducción](https://youtu.be/AiELBA074Uw)
+- [Arrays - Manipulación](https://youtu.be/t_rjliAELYA)
+- [Bucles Básicos](https://youtu.be/i_RZDKGee8g)
+- [Bucles Anidados](https://youtu.be/A1NmM-HdO0U)
+- [Ejercicios Prácticos](https://youtu.be/u4hwqY8S4WM)
+
+#### 💻 Ejemplo de Código:
+```java
+public class Main {
+    public static void main(String[] args) {
+        // Arrays simples
+        String[] nombres = {"Ana", "Luis", "María"};
+        int[] notas = {18, 15, 12};
+        
+        // Recorrido de arrays
+        for (int i = 0; i < nombres.length; i++) {
+            System.out.println(nombres[i] + " obtuvo nota " + notas[i]);
+        }
+        
+        // Bucles anidados - Tabla de multiplicar
+        System.out.println("\nTabla de multiplicar (1 al 3):");
+        for (int i = 1; i <= 3; i++) {
+            for (int j = 1; j <= 3; j++) {
+                System.out.print(i * j + "\t");
+            }
+            System.out.println();
+        }
+        
+        // Array bidimensional
+        int[][] matriz = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        System.out.println("\nMatriz 3x3:");
+        for (int fila = 0; fila < matriz.length; fila++) {
+            for (int columna = 0; columna < matriz[fila].length; columna++) {
+                System.out.print(matriz[fila][columna] + " ");
+            }
+            System.out.println();
+        }
+    }
+}
+```
 
 ---
 

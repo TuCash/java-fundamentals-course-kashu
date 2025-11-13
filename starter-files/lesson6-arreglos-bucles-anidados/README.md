@@ -1,4 +1,23 @@
-# Lesson 6 — Next steps
+# Lesson 6 — Arreglos y Bucles Anidados
+
+## 📚 Videos de Arrays y Bucles
+
+### Lección 1: Introducción a Arrays
+- [Arrays - Lección 1](https://youtu.be/AiELBA074Uw)
+
+### Lección 2: Manipulación de Arrays  
+- [Arrays - Lección 2](https://youtu.be/t_rjliAELYA)
+
+### Lección 3: Bucles Básicos
+- [Bucles - Lección 3](https://youtu.be/i_RZDKGee8g)
+
+### Lección 4: Bucles Anidados
+- [Bucles Anidados - Lección 4](https://youtu.be/A1NmM-HdO0U)
+
+### Lección 5: Ejercicios Prácticos
+- [Práctica - Lección 5](https://youtu.be/u4hwqY8S4WM)
+
+---
 
 This folder contains a small example that demonstrates:
 
