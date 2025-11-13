@@ -254,6 +254,8 @@ public class Main {
 ### Objetivo
 Combinar todo lo aprendido para construir la base de un pequeño juego tipo *Quiz de Java*.
 
+> 💻 **Este proyecto fue desarrollado en Replit**: [https://replit.com/~](https://replit.com/~)
+
 ### Ejemplo:
 ```java
 import java.util.Scanner;
@@ -292,6 +294,8 @@ public class Quiz {
 
 ### Objetivo
 Agregar validaciones, control de errores y un menú para volver a jugar.
+
+> 💻 **Este proyecto fue desarrollado en Replit**: [https://replit.com/~](https://replit.com/~)
 
 ### Ejemplo:
 ```java
