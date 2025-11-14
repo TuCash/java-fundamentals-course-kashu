@@ -53,22 +53,22 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ###  Lección 5:Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlaces de Videos**:
-  - [POO - Conceptos Básicos](https://youtu.be/XjaSQu1Lmgc)
-  - [POO - Clases y Objetos](https://youtu.be/zU-ufayiI9k)
-  - [POO - Constructores y Métodos](https://youtu.be/esVVNXbklgk)
-  - [POO - Encapsulación](https://youtu.be/NV5JP8tnPso)
-  - [POO - Herencia y Polimorfismo](https://youtu.be/POPDjMBjLmg)
+  - [POO - Conceptos Básicos](https://youtu.be/99iKvjSdxDA)
+  - [POO - Clases y Objetos](https://youtu.be/k2-Zcb-hdNY)
+  - [POO - Constructores y Métodos](https://youtu.be/tphWq1NIXVY)
+  - [POO - Encapsulación](https://youtu.be/vtyzI6MKBNg)
+  - [POO - Herencia y Polimorfismo](https://youtu.be/TEJwES_WKHg)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "estudiantes".
 - **Proyecto**: [Crea tu aplicación POO](https://replit.com/~) 👈 **¡Guarda y comparte!**
 
 ###  Lección 6: Arrays y Bucles Anidados (15 minutos)
 - **Descripción**: Maneja colecciones de datos y crea estructuras complejas con bucles anidados.
 - **Enlaces de Videos**:
-  - [Arrays - Introducción](https://youtu.be/AiELBA074Uw)
-  - [Arrays - Manipulación](https://youtu.be/t_rjliAELYA)
-  - [Bucles Básicos](https://youtu.be/i_RZDKGee8g)
-  - [Bucles Anidados](https://youtu.be/A1NmM-HdO0U)
-  - [Ejercicios Prácticos](https://youtu.be/u4hwqY8S4WM)
+  - [Arrays - Introducción](https://youtu.be/mb3OsPyhP70)
+  - [Arrays - Manipulación](https://youtu.be/8v4cIsQy6Po)
+  - [Bucles Básicos](https://youtu.be/VGY-PYFrLts)
+  - [Bucles Anidados](https://youtu.be/XwKlA1h2D_s)
+  - [Ejercicios Prácticos](https://youtu.be/PdZNx5yVvE8)
 - **Conclusiones clave**: Arrays bidimensionales, bucles for anidados, matrices.
 - **Proyecto**: [Practica con Arrays](https://replit.com/~) 👈 **¡Experimenta con matrices!**
 
