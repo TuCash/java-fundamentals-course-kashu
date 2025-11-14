@@ -2,27 +2,33 @@
 
 ## 📼 Lección 1: Hello World y Fundamentos
 
-- [Introducción a Java y configuración del entorno](https://youtu.be/wDRoMQEmJkc)
+- [Introducción a Java y configuración del entorno](https://youtu.be/AKcgq7V_5Yg)
 
 ## 📼 Lección 2: Variables y Tipos de Datos
 
-- [Tipos de datos en Java](https://www.youtube.com/watch?v=n_oFI97LFqw)
+- [Tipos de datos en Java](https://youtu.be/oPAyQIn7kGE)
 
 ## 📼 Lección 3: Control de Flujo
 
-- [Estructuras de Control](https://youtu.be/Or8rIrHKmAY)
+- [Estructuras de Control](https://youtu.be/XmFCrqKqafY)
 
 ## 📼 Lección 4: Métodos y Entrada de Usuario
 
-- [Métodos y Entrada de Usuario](https://youtube.com/playlist?your_playlist_id_4)
+- [Métodos y Entrada de Usuario](https://youtu.be/mXiCTgx_qkw)
 
 ## 📼 Lección 5: POO Avanzada
 
-- [Herencia en Java](https://youtube.com/watch?v=lesson5-part1)
+- [POO - Conceptos Básicos](https://youtu.be/XjaSQu1Lmgc)
+- [POO - Clases y Objetos](https://youtu.be/zU-ufayiI9k)
+- [POO - Constructores y Métodos](https://youtu.be/esVVNXbklgk)
+- [POO - Encapsulación](https://youtu.be/NV5JP8tnPso)
 
-## 📼 Lección 6: Manejo de Excepciones
+## 📼 Lección 6: Arrays y Bucles Anidados
 
-- [Introducción a las excepciones](https://youtube.com/watch?v=lesson6-part1)
+- [Arrays - Introducción](https://youtu.be/AiELBA074Uw)
+- [Arrays - Manipulación](https://youtu.be/t_rjliAELYA)
+- [Bucles Básicos](https://youtu.be/i_RZDKGee8g)
+- [Bucles Anidados](https://youtu.be/A1NmM-HdO0U)
 
 ## 🎮 Proyecto Final: Juego de Cartas
 

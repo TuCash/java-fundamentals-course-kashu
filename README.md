@@ -24,25 +24,25 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Secuencia de la Lección
 
-### Introducción a Java (2 minutos)
+###  Lección 1: Introducción a Java (2 minutos)
 - **Descripción**: Comprender la estructura básica de un programa en Java y aprender a mostrar información en consola.
 - **Enlace**: [Ver la lección](https://youtu.be/AKcgq7V_5Yg)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
 - **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://onlinegdb.com/AzZulZ-lE_)  **¡Código listo para ejecutar!**
 
-### Variables y Tipos de Datos (5:29 minutos)
+###  Lección 2:Variables y Tipos de Datos (5:29 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección](https://youtu.be/oPAyQIn7kGE)
 - **Conclusiones clave**: Usa int, String, double; declara como int age = 15;
 - **Práctica**: [Clic para programar](https://onlinegdb.com/0aldLxXjk)  **¡No es necesario registrarse!**
 
-### Estructuras de Control (5:14 minutos)
+### Lección 3:Estructuras de Control (5:14 minutos)
 - **Descripción**: Condicionales que ejecutan bloques de código si se cumple una condición.
 - **Enlace**: [Ver la lección](https://youtu.be/XmFCrqKqafY)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
 - **Práctica**: [Clic para programar](https://onlinegdb.com/kF6Xqq75Q) 👈 **¡Inicio inmediato!**
 
-### Métodos y Entrada de Usuario (3:31 minutos)
+### Lección 4: Métodos y Entrada de Usuario (3:31 minutos)
 - **Descripción**: Aprender a organizar el código en métodos y recibir datos desde el teclado con Scanner.
 - **Enlace**: [Ver la lección](https://youtu.be/mXiCTgx_qkw)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
@@ -50,7 +50,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Fundamentos de POO y programas sencillos (15 minutos)
+###  Lección 5:Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlaces de Videos**:
   - [POO - Conceptos Básicos](https://youtu.be/XjaSQu1Lmgc)
@@ -61,7 +61,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "estudiantes".
 - **Proyecto**: [Crea tu aplicación POO](https://replit.com/~) 👈 **¡Guarda y comparte!**
 
-### Arrays y Bucles Anidados (15 minutos)
+###  Lección 6: Arrays y Bucles Anidados (15 minutos)
 - **Descripción**: Maneja colecciones de datos y crea estructuras complejas con bucles anidados.
 - **Enlaces de Videos**:
   - [Arrays - Introducción](https://youtu.be/AiELBA074Uw)
@@ -76,13 +76,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Mini Proyecto Final – Parte 1 (10 minutos)
+###  Lección 7 : Mini Proyecto Final – Parte 1 (10 minutos)
 - **Descripción**: Combina todo lo aprendido en un proyecto práctico tipo Quiz.
 - **Enlace**: Desarrollado en Replit
 - **Conclusiones clave**: Aplicación de POO, arrays y estructuras de control.
 - **Proyecto**: [Crea tu Quiz de Java](https://replit.com/~) 👈 **¡Diseña tu quiz interactivo!**
 
-### Mini Proyecto Final – Parte 2 (5 minutos)
+###  Lección 8:Mini Proyecto Final – Parte 2 (5 minutos)
 - **Descripción**: Mejoras, validaciones y presentación final del proyecto.
 - **Enlace**: Mejoras en Replit
 - **Conclusiones clave**: Manejo de errores, código limpio, documentación.
@@ -122,7 +122,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Mejía Poma, Patricia Valeria** (u202523271)
 - **Huamán Hinostroza, Milenio** (u20211c245)
 
-**Fecha de entrega**: Noviembre 2025
+**Fecha de entrega**: 14 de Noviembre 2025
 
 
 
