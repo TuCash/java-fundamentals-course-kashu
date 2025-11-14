@@ -78,13 +78,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ###  Lección 7 : Mini Proyecto Final – Parte 1 (10 minutos)
 - **Descripción**: Combina todo lo aprendido en un proyecto práctico tipo Quiz.
-- **Enlace**: Desarrollado en Replit
+- **Enlace**: [Ver la lección](https://youtu.be/xNRaYha12lk)
 - **Conclusiones clave**: Aplicación de POO, arrays y estructuras de control.
 - **Proyecto**: [Crea tu Quiz de Java](https://replit.com/~) 👈 **¡Diseña tu quiz interactivo!**
 
 ###  Lección 8:Mini Proyecto Final – Parte 2 (5 minutos)
 - **Descripción**: Mejoras, validaciones y presentación final del proyecto.
-- **Enlace**: Mejoras en Replit
+- **Enlace**: [Ver la lección](https://youtu.be/cZKz101hAcs)
+- **Enlace adicional**: [Ver la lección](https://youtu.be/G1wlGWBB7Eo)
 - **Conclusiones clave**: Manejo de errores, código limpio, documentación.
 - **Proyecto Final**: [Quiz Completo y Mejorado](https://replit.com/~) 👈 **¡Presenta tu creación final!**
 

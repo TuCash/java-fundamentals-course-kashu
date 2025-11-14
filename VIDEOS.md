@@ -34,7 +34,9 @@
 
 ## 🎮 Proyecto Final: Juego de Cartas
 
-- [Diseño de clases](https://youtube.com/watch?v=project-part1)
+- [Mini Proyecto Final – Parte 1](https://youtu.be/xNRaYha12lk)
+- [Mini Proyecto Final – Parte 2](https://youtu.be/cZKz101hAcs)
+- [Mini Proyecto Final – Parte 3](https://youtu.be/G1wlGWBB7Eo)
 
 ## 📝 Notas Importantes
 
