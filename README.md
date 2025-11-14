@@ -24,33 +24,33 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Secuencia de la Lección
 
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
-- **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://youtu.be/wDRoMQEmJkc)
+### Introducción a Java (2 minutos)
+- **Descripción**: Comprender la estructura básica de un programa en Java y aprender a mostrar información en consola.
+- **Enlace**: [Ver la lección](https://youtu.be/AKcgq7V_5Yg)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://onlinegdb.com/KwiGZkX1Zg) 👈 **¡Código listo para ejecutar!**
+- **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://onlinegdb.com/AzZulZ-lE_)  **¡Código listo para ejecutar!**
 
-### Lección 2: Variables y tipos de datos (8 minutos)
+### Variables y Tipos de Datos (5:29 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=n_oFI97LFqw)
+- **Enlace**: [Ver la lección](https://youtu.be/oPAyQIn7kGE)
 - **Conclusiones clave**: Usa int, String, double; declara como int age = 15;
-- **Práctica**: [Clic para programar](https://replit.com/~) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/0aldLxXjk)  **¡No es necesario registrarse!**
 
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
-- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://youtu.be/Or8rIrHKmAY)
+### Estructuras de Control (5:14 minutos)
+- **Descripción**: Condicionales que ejecutan bloques de código si se cumple una condición.
+- **Enlace**: [Ver la lección](https://youtu.be/XmFCrqKqafY)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Clic para programar](https://replit.com/~) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/kF6Xqq75Q) 👈 **¡Inicio inmediato!**
 
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
-- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://youtu.be/zdOd86EgwTM)
+### Métodos y Entrada de Usuario (3:31 minutos)
+- **Descripción**: Aprender a organizar el código en métodos y recibir datos desde el teclado con Scanner.
+- **Enlace**: [Ver la lección](https://youtu.be/mXiCTgx_qkw)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://replit.com/~) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/MjTwwVANP) 👈 **¡No necesitas registrarte!**
 
 ---
 
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
+### Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlaces de Videos**:
   - [POO - Conceptos Básicos](https://youtu.be/XjaSQu1Lmgc)
@@ -61,7 +61,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "estudiantes".
 - **Proyecto**: [Crea tu aplicación POO](https://replit.com/~) 👈 **¡Guarda y comparte!**
 
-### Lección 6: Arrays y Bucles Anidados (15 minutos)
+### Arrays y Bucles Anidados (15 minutos)
 - **Descripción**: Maneja colecciones de datos y crea estructuras complejas con bucles anidados.
 - **Enlaces de Videos**:
   - [Arrays - Introducción](https://youtu.be/AiELBA074Uw)
@@ -72,54 +72,21 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Arrays bidimensionales, bucles for anidados, matrices.
 - **Proyecto**: [Practica con Arrays](https://replit.com/~) 👈 **¡Experimenta con matrices!**
 
-#### 💻 Ejemplo de Código:
-```java
-public class Main {
-    public static void main(String[] args) {
-        // Arrays simples
-        String[] nombres = {"Ana", "Luis", "María"};
-        int[] notas = {18, 15, 12};
-        
-        // Recorrido de arrays
-        for (int i = 0; i < nombres.length; i++) {
-            System.out.println(nombres[i] + " obtuvo nota " + notas[i]);
-        }
-        
-        // Bucles anidados - Tabla de multiplicar
-        System.out.println("\nTabla de multiplicar (1 al 3):");
-        for (int i = 1; i <= 3; i++) {
-            for (int j = 1; j <= 3; j++) {
-                System.out.print(i * j + "\t");
-            }
-            System.out.println();
-        }
-        
-        // Array bidimensional
-        int[][] matriz = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-        System.out.println("\nMatriz 3x3:");
-        for (int fila = 0; fila < matriz.length; fila++) {
-            for (int columna = 0; columna < matriz[fila].length; columna++) {
-                System.out.print(matriz[fila][columna] + " ");
-            }
-            System.out.println();
-        }
-    }
-}
-```
+
 
 ---
 
-### Lección 7: Mini Proyecto Final – Parte 1 (10 minutos)
+### Mini Proyecto Final – Parte 1 (10 minutos)
 - **Descripción**: Combina todo lo aprendido en un proyecto práctico tipo Quiz.
 - **Enlace**: Desarrollado en Replit
 - **Conclusiones clave**: Aplicación de POO, arrays y estructuras de control.
-- **Proyecto**: [Quiz de Java](https://replit.com/~) 👈 **¡Crea tu quiz!**
+- **Proyecto**: [Crea tu Quiz de Java](https://replit.com/~) 👈 **¡Diseña tu quiz interactivo!**
 
-### Lección 8: Mini Proyecto Final – Parte 2 (5 minutos)
+### Mini Proyecto Final – Parte 2 (5 minutos)
 - **Descripción**: Mejoras, validaciones y presentación final del proyecto.
 - **Enlace**: Mejoras en Replit
 - **Conclusiones clave**: Manejo de errores, código limpio, documentación.
-- **Proyecto Final**: [Quiz Mejorado](https://replit.com/~) 👈 **¡Comparte tu creación!**
+- **Proyecto Final**: [Quiz Completo y Mejorado](https://replit.com/~) 👈 **¡Presenta tu creación final!**
 
 ## Recursos adicionales
 
