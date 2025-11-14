@@ -10,162 +10,67 @@
 ---
 
 ##  TRABAJO COMPLEMENTARIO  
-#  FUNDAMENTOS DE JAVA PARA PRINCIPIANTES
 
-**Startup:** KASHU  
-**Repositorio:** [https://github.com/TuCash/java-fundamentals-course-kashu.git](https://github.com/TuCash/java-fundamentals-course-kashu.git)
+# Fundamentos de Java para Principiantes
 
----
+## Resumen del Curso
+Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-### 👥 INTEGRANTES DEL EQUIPO
+**Duración total**: ~60 minutos  
+**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
+**Prerrequisitos**: Ninguno  
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
+**📂 Repositorio de Código Fuente**: [https://github.com/TuCash/java-fundamentals-course-kashu.git](https://github.com/TuCash/java-fundamentals-course-kashu.git)
 
-| Nº | Nombre completo | Código |
-|----|------------------|--------|
-| 1 | **Taquiri Calderón, Jhunior Giussepe** | u20221c576 |
-| 2 | **Mondoñedo Rodríguez, Juan Diego Javier** | u202110373 |
-| 3 | **Mejía Poma, Patricia Valeria** | u202523271 |
-| 4 | **Humano Hinostroza, Milenio** | u20211c245 |
+## Secuencia de la Lección
 
+### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
+- **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
+- **Enlace**: [Ver la lección](https://youtu.be/wDRoMQEmJkc)
+- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
+- **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://onlinegdb.com/KwiGZkX1Zg) 👈 **¡Código listo para ejecutar!**
 
-##  OBJETIVO GENERAL
+### Lección 2: Variables y tipos de datos (8 minutos)
+- **Descripción**: Aprende a almacenar datos en Java usando variables.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=n_oFI97LFqw)
+- **Conclusiones clave**: Usa int, String, double; declara como int age = 15;
+- **Práctica**: [Clic para programar](https://replit.com/~) 👈 **¡No es necesario registrarse!**
 
-Desarrollar un **curso introductorio de programación en Java** enfocado en estudiantes de secundaria (12-17 años) sin experiencia previa, aplicando **principios de Programación Orientada a Objetos (POO)**.  
-El curso tiene una duración total aproximada de **1 hora**, dividido en **8 lecciones cortas y progresivas**, con videos **no listados en YouTube** y ejercicios prácticos en plataformas online gratuitas.
+### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
+- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
+- **Enlace**: [Ver la lección](https://youtu.be/Or8rIrHKmAY)
+- **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
+- **Práctica**: [Clic para programar](https://replit.com/~) 👈 **¡Inicio inmediato!**
 
----
-
-##  OBJETIVOS ESPECÍFICOS
-
-- Enseñar los fundamentos de la programación y la POO de manera simple y visual.  
-- Fomentar el aprendizaje activo con ejemplos y prácticas interactivas.  
-- Promover la inclusión tecnológica mediante herramientas gratuitas en línea.  
-- Aplicar buenas prácticas de documentación y trabajo colaborativo usando GitHub.  
-
----
-
-##  HERRAMIENTAS Y PLATAFORMAS
-
-| Propósito | Herramienta / Plataforma |
-|------------|--------------------------|
-| Ejecución de código online | **Replit**, **JDoodle**, **OnlineGDB** |
-| Control de versiones | **GitHub (repositorio público)** |
-| Alojamiento de videos | **YouTube (no listados)** |
-| Documentación | **Markdown (.md)** |
-| Reportes | **Microsoft Word / PDF** |
+### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
+- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
+- **Enlace**: [Ver la lección](https://youtu.be/zdOd86EgwTM)
+- **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
+- **Práctica**: [Haz clic para practicar](https://replit.com/~) 👈 **¡No necesitas registrarte!**
 
 ---
 
+### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
+- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
+- **Enlaces de Videos**:
+  - [POO - Conceptos Básicos](https://youtu.be/XjaSQu1Lmgc)
+  - [POO - Clases y Objetos](https://youtu.be/zU-ufayiI9k)
+  - [POO - Constructores y Métodos](https://youtu.be/esVVNXbklgk)
+  - [POO - Encapsulación](https://youtu.be/NV5JP8tnPso)
+  - [POO - Herencia y Polimorfismo](https://youtu.be/POPDjMBjLmg)
+- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "estudiantes".
+- **Proyecto**: [Crea tu aplicación POO](https://replit.com/~) 👈 **¡Guarda y comparte!**
 
-
-
-# Curso Fundamental de Java 
-
-¡Bienvenido al curso fundamental de Java!  
-Este repositorio contiene todo el material necesario para aprender los fundamentos de la programación en **Java**, desde los conceptos básicos hasta temas más avanzados.  
-Desarrollado por el equipo **Kashu** como parte del curso **Desarrollo de Aplicaciones de Open Source (UPC 2025-02, NRC 7369)**.
-
----
-
-##  Contenido del Curso
-
-El curso está dividido en **8 lecciones**, cada una con ejemplos prácticos, ejercicios y videos explicativos.
-
-### 1️. Introducción a Java
-- Estructura básica de un programa Java  
-- Uso de `System.out.println()`  
-- Comentarios en Java  
-- [ Ver la lección en YouTube](https://youtu.be/wDRoMQEmJkc)
-
----
-
-### 2️. Variables y Tipos de Datos
-- Variables y tipos de datos primitivos  
-- Operadores aritméticos y lógicos  
-- Cadenas de texto (`String`)  
-- Conversión de tipos  
-- [ Ver la lección en YouTube](https://www.youtube.com/watch?v=n_oFI97LFqw)
-
----
-
-### 3️. Estructuras de Control
-- Condicionales `if-else`  
-- Sentencias `switch-case`  
-- Bucles `for` y `while`  
-- Control de flujo con `break` y `continue`  
-- [ Fundamentos de Java #3 – Estructuras de Control](https://youtu.be/Or8rIrHKmAY)
-
----
-
-### 4️. Métodos y Entrada de Usuario
-- Creación y uso de métodos  
-- Parámetros y valores de retorno  
-- Entrada de usuario con `Scanner`  
-- Sobrecarga de métodos (`overloading`)  
-- [ Fundamentos de Java #4 – Métodos y Entrada de Usuario](https://youtu.be/zdOd86EgwTM)
-
----
-
-### 5️. Programación Orientada a Objetos (POO)
-- Clases y objetos  
-- Atributos y métodos  
-- Encapsulamiento  
-- Herencia y polimorfismo  
-
-#### 📚 Videos de POO:
-- [POO - Conceptos Básicos](https://youtu.be/XjaSQu1Lmgc)
-- [POO - Clases y Objetos](https://youtu.be/zU-ufayiI9k)
-- [POO - Constructores y Métodos](https://youtu.be/esVVNXbklgk)
-- [POO - Encapsulación](https://youtu.be/NV5JP8tnPso)
-- [POO - Herencia y Polimorfismo](https://youtu.be/POPDjMBjLmg)
-
-#### 💻 Ejemplo de Código:
-```java
-public class Main {
-    public static void main(String[] args) {
-        Estudiante e1 = new Estudiante("Ana", 17, 18.5);
-        Estudiante e2 = new Estudiante("Luis", 19, 15.8);
-        
-        e1.mostrarInfo();
-        e2.mostrarInfo();
-    }
-}
-
-class Estudiante {
-    String nombre;
-    int edad;
-    double nota;
-    
-    Estudiante(String n, int e, double no) {
-        nombre = n;
-        edad = e;
-        nota = no;
-    }
-    
-    void mostrarInfo() {
-        System.out.println("Nombre: " + nombre + " | Edad: " + edad + " | Nota: " + nota);
-        if (nota >= 11) {
-            System.out.println("Estado: Aprobado ✅");
-        } else {
-            System.out.println("Estado: Desaprobado ❌");
-        }
-    }
-}
-```
-
----
-
-### 6️. Arreglos y Bucles Anidados
-- Declaración e inicialización de arreglos  
-- Recorridos con bucles anidados  
-- Arreglos multidimensionales  
-- Ejercicios prácticos con matrices  
-
-#### 📚 Videos de Arrays y Bucles:
-- [Arrays - Introducción](https://youtu.be/AiELBA074Uw)
-- [Arrays - Manipulación](https://youtu.be/t_rjliAELYA)
-- [Bucles Básicos](https://youtu.be/i_RZDKGee8g)
-- [Bucles Anidados](https://youtu.be/A1NmM-HdO0U)
-- [Ejercicios Prácticos](https://youtu.be/u4hwqY8S4WM)
+### Lección 6: Arrays y Bucles Anidados (15 minutos)
+- **Descripción**: Maneja colecciones de datos y crea estructuras complejas con bucles anidados.
+- **Enlaces de Videos**:
+  - [Arrays - Introducción](https://youtu.be/AiELBA074Uw)
+  - [Arrays - Manipulación](https://youtu.be/t_rjliAELYA)
+  - [Bucles Básicos](https://youtu.be/i_RZDKGee8g)
+  - [Bucles Anidados](https://youtu.be/A1NmM-HdO0U)
+  - [Ejercicios Prácticos](https://youtu.be/u4hwqY8S4WM)
+- **Conclusiones clave**: Arrays bidimensionales, bucles for anidados, matrices.
+- **Proyecto**: [Practica con Arrays](https://replit.com/~) 👈 **¡Experimenta con matrices!**
 
 #### 💻 Ejemplo de Código:
 ```java
@@ -204,23 +109,53 @@ public class Main {
 
 ---
 
-### 7. Mini Proyecto Final – Parte 1: Desarrollo
-- Diseño del proyecto “Juego de Cartas”  
-- Creación de clases base y subclases  
-- Aplicación de principios POO  
-- Manejo de entrada del usuario  
-- [ Fundamentos de Java #7 – Mini Proyecto Final (Parte 1)](https://youtube.com/playlist?your_playlist_id_7)
+### Lección 7: Mini Proyecto Final – Parte 1 (10 minutos)
+- **Descripción**: Combina todo lo aprendido en un proyecto práctico tipo Quiz.
+- **Enlace**: Desarrollado en Replit
+- **Conclusiones clave**: Aplicación de POO, arrays y estructuras de control.
+- **Proyecto**: [Quiz de Java](https://replit.com/~) 👈 **¡Crea tu quiz!**
+
+### Lección 8: Mini Proyecto Final – Parte 2 (5 minutos)
+- **Descripción**: Mejoras, validaciones y presentación final del proyecto.
+- **Enlace**: Mejoras en Replit
+- **Conclusiones clave**: Manejo de errores, código limpio, documentación.
+- **Proyecto Final**: [Quiz Mejorado](https://replit.com/~) 👈 **¡Comparte tu creación!**
+
+## Recursos adicionales
+
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/TuCash/java-fundamentals-course-kashu.git)
+- **🎯 Códigos de ejemplo interactivos**: [Acceder a OnlineGDB con todos los ejemplos](https://onlinegdb.com/utfhdTehH_) 👈 **¡Prueba todos los códigos del curso!**
+- **Todas las actividades prácticas**:
+
+| Número de lección | Actividad | Empezar a programar |
+|----------|----------|-------------|
+| 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/utfhdTehH_) |
+| 2 | Variables | [OnlineGDB](https://onlinegdb.com/utfhdTehH_) |
+| 3 | Estructuras de Control | [OnlineGDB](https://onlinegdb.com/utfhdTehH_) |
+| 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/utfhdTehH_) |
+| 5 | Programa POO | [Replit](https://replit.com/~) |
+| 6 | Arrays y Bucles | [Replit](https://replit.com/~) |
+| 7-8 | Mini Proyecto | [Replit](https://replit.com/~) |
+
+**¡Gracias por completar el curso!**
 
 ---
 
-### 8️. Mini Proyecto Final – Parte 2: Mejoras y Presentación 
-- Refactorización del código  
-- Manejo de excepciones  
-- Documentación y comentarios  
-- Presentación final del proyecto  
-- [ Fundamentos de Java #8 – Mini Proyecto Final (Parte 2)](https://youtube.com/playlist?your_playlist_id_8)
+## 👥 Elaboración
 
----
+**Universidad Peruana de Ciencias Aplicadas**  
+**Carrera de Ingeniería de Software**  
+**Período 2025-02**  
+**1ASI0729 Desarrollo de Aplicaciones Open Source**  
+**NRC 7369**  
+
+**Nombre del equipo**: KASHU  
+**Integrantes del equipo**:
+- **Taquiri Calderón, Jhunior Giussepe** (u20221c576)
+- **Mejía Poma, Patricia Valeria** (u202523271)
+- **Huamán Hinostroza, Milenio** (u20211c245)
+
+**Fecha de entrega**: Noviembre 2025
 
 
 
